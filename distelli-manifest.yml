@@ -1,4 +1,4 @@
-adriandejose/tomcat-war-docker2:
+adriandejose/tomcat-war-docker3:
 
   Env:
     # Set the below enviornment variables for your environment
